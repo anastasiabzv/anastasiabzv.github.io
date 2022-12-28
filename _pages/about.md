@@ -1,50 +1,32 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+
+Hello world! I am a researcher fascinated by the mathematics of **collective behavior** that emerges from simple interactions of dynamic components, such as collective decision-making in human and animal social groups, pattern formation in networks of neurons, and self-organization in biological and technological swarms.  I believe **nonlinearity** is fundamentally important for understanding the properties of collective behavior that are shared  by systems across different contexts. In my work I combine ideas from nonlinear dynamical systems, control theory, network science, and distributed learning to both *understand* how emergent collective properties arise in real-world systems (e.g. human social networks), and to *design* new agent-based rules for **decentralized control** of complex self-organizing behaviors in autonomous technological swarms (e.g. robotic teams and mobile sensor networks). 
+
+In October 2022 I started my current postdoctoral position with the [AI Institute in Dynamic Systems](http://dynamicsai.org/) at the University of Washington, working with Professors [Steve Brunton](https://www.eigensteve.com/) and [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz). I am starting to investigate how data-driven methods for learning and forecasting of nonlinear dynamical systems can be leveraged for system identification and control of collective behavior. If you would like to explore potential collaboration at some intersection of collective behavior, swarm intelligence, control, distributed learning, and nonlinear systems, please reach out to me at *anabiz [at] uw [dot] edu*. 
+
+I received my Ph.D. in Mechanical and Aerospace Engineering from Princeton University in September 2022. At Princeton my research on nonlinear dynamics of collective decision-making and belief formation was supervised by Professor [Naomi Ehrich Leonard](https://naomi.princeton.edu/). You can read my Ph.D thesis [here](https://naomi.princeton.edu/wp-content/uploads/sites/744/2022/09/AnastasiaThesis.pdf). Prior to my Ph.D. I earned a B.A. in physics with a minor in mechanical engineering from the University of California, Berkeley in 2016.
+
+
+
+News 
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**12/09/2022:** I presented an invited paper on ["Switching transformations for decentralized control of opinion patterns in signed networks"](https://ieeexplore.ieee.org/abstract/document/9805772) at the [2022 IEEE Conference on Decision and Control](https://cdc2022.ieeecss.org/) in Cancún, Mexico.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**11/21/2022:** I led a tutorial on dynamical system modeling of cognitive control at the [3rd Workshop on Mental Effort](https://sites.google.com/view/mental-effort) at the Carney Institute for Brain Science at Brown University, Providence, Rhode Island. You can follow my tutorial in this [python language Colab notebook](https://drive.google.com/file/d/1NOA6vwDUw2xblq2v3CvLaGxE6QPpgELy/view?usp=sharing).
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**10/01/2022:** I started a postdoctoral fellow position at the University of Washington in Seattle with the [AI Institute in Dynamic Systems](http://dynamicsai.org/)!
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**08/30/2022:** I successfully completed my Final Public Oral examination for the Ph.D. degree in Mechanical and Aerospace Engineering at Princeton University. My Ph.D was conferred on September 24, 2022. 
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**11/18/2021:** I received a [Princeton School of Applied Science and Engineering Award for Excellence](https://engineering.princeton.edu/news/2021/12/08/award-excellence-honors-graduate-student-achievement-2), awarded annually to "advanced graduate students who have performed at the highest level as scholars and researchers".
