@@ -21,9 +21,9 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 News 
 ======
 
-**01/03/2022:** I am a co-instructor for [ME 565, Mechanical Engineering Analysis](https://faculty.washington.edu/sbrunton/me565/) at the University of Washington. This graduate course covers vector calculus, partial differential equations, and transform methods. 
+**01/03/2022:** I am a co-instructor for [ME 565, Mechanical Engineering Analysis](https://faculty.washington.edu/sbrunton/me565/) at the University of Washington. This graduate course covers vector calculus, partial differential equations, and transform methods, with an emphasis on engineering applications of these methods. 
 
-**12/09/2022:** I present an invited paper on ["Switching transformations for decentralized control of opinion patterns in signed networks"](https://ieeexplore.ieee.org/abstract/document/9805772) at the [2022 IEEE Conference on Decision and Control](https://cdc2022.ieeecss.org/) in Cancún, Mexico.
+**12/09/2022:** I am presenting an invited paper on ["Switching transformations for decentralized control of opinion patterns in signed networks"](https://ieeexplore.ieee.org/abstract/document/9805772) at the [2022 IEEE Conference on Decision and Control](https://cdc2022.ieeecss.org/) in Cancún, Mexico.
 
 **11/21/2022:** I am leading a tutorial on dynamical system modeling of cognitive control at the [3rd Workshop on Mental Effort](https://sites.google.com/view/mental-effort) at the Carney Institute for Brain Science at Brown University, Providence, Rhode Island. You can follow my tutorial in this [python language Colab notebook](https://drive.google.com/file/d/1NOA6vwDUw2xblq2v3CvLaGxE6QPpgELy/view?usp=sharing).
 
