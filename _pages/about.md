@@ -21,7 +21,10 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 News 
 ======
 
-**01/03/2022:** I am a co-instructor for [ME 565, Mechanical Engineering Analysis](https://faculty.washington.edu/sbrunton/me565/) at the University of Washington. This graduate course covers vector calculus, partial differential equations, and transform methods, with an emphasis on engineering applications. 
+**05/01/2023:** I am presenting a poster titled "Nonlinear dynamics of collective decision-making on multiple options" at a workshop titled ["From individual
+to group decision making"](https://www.weizmann.ac.il/conferences/FITGD2023/) at the Weizmann Institute of Science.
+
+**01/03/2023:** I am a co-instructor for [ME 565, Mechanical Engineering Analysis](https://faculty.washington.edu/sbrunton/me565/) at the University of Washington. This graduate course covers vector calculus, partial differential equations, and transform methods, with an emphasis on engineering applications. 
 
 **12/09/2022:** I am presenting an invited paper on ["Switching transformations for decentralized control of opinion patterns in signed networks"](https://ieeexplore.ieee.org/abstract/document/9805772) at the [2022 IEEE Conference on Decision and Control](https://cdc2022.ieeecss.org/) in Cancún, Mexico.
 
