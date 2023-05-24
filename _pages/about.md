@@ -21,8 +21,10 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 News 
 ======
 
-**05/01/2023:** I am presenting a poster and a short talk titled "Nonlinear dynamics of collective decision-making on multiple options" at a workshop titled ["From individual
-to group decision making"](https://www.weizmann.ac.il/conferences/FITGD2023/) at the Weizmann Institute of Science.
+**05/14/2023:** I am presenting an invited talk on "Nonlinear dynamics of collective belief formation" in a minisymposium on Dynamics of Decisions and Behavior in Social Systems at the [SIAM Conference on Applications of Dynamical Systems][https://www.siam.org/conferences/cm/conference/ds23].
+
+**05/01/2023:** I am presenting a poster and a short talk on "Nonlinear dynamics of collective decision-making on multiple options" at the workshop ["From individual
+to group decision making"](https://www.weizmann.ac.il/conferences/FITGD2023/), Weizmann Institute of Science, Israel.
 
 **01/03/2023:** I am a co-instructor for [ME 565, Mechanical Engineering Analysis](https://faculty.washington.edu/sbrunton/me565/) at the University of Washington. This graduate course covers vector calculus, partial differential equations, and transform methods, with an emphasis on engineering applications. 
 
