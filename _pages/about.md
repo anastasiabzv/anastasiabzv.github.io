@@ -21,6 +21,8 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 News 
 ======
 
+**06/02/2023** I am presenting a talk on our invited session paper ["Sustained oscillations in multi-topic belief dynamics over signed networks"](https://arxiv.org/abs/2210.00353) at the [2023 American Control Conference](https://acc2023.a2c2.org/) in San Diego, California.
+
 **05/14/2023:** I am presenting an invited talk on "Nonlinear dynamics of collective belief formation" in a minisymposium on Dynamics of Decisions and Behavior in Social Systems at the [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences/cm/conference/ds23) in Portland, Oregon.
 
 **05/01/2023:** I am presenting a poster and a short talk on "Nonlinear dynamics of collective decision-making on multiple options" at the workshop ["From individual
