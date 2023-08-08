@@ -21,9 +21,11 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 News 
 ======
 
+**08/07/2023:** A preprint on "Multi-topic belief formation through bifurcations over signed social networks" is now [available](https://arxiv.org/abs/2308.02755)! This work was done in collaboration with [Alessio Franci](https://sites.google.com/site/francialessioac/) and [Naomi Ehrich Leonard](https://naomi.princeton.edu/).
+
 **07/13/2023:** I am presenting an invited talk on "Nonlinear dynamics of collective belief formation" in the [Dynamical Systems in the Life Sciences Satellite Workshop](https://sites.google.com/d.umn.edu/dsls2023/home) at the Ohio State University in Columbus, Ohio.
 
-**06/21/2023:** I am presenting a contributed posteron "Nonlinear dynamics of collective decision-making on multiple options"  in the [Collective Intelligence: Foundations + Radical Ideas Symposium
+**06/21/2023:** I am presenting a contributed poster on "Nonlinear dynamics of collective decision-making on multiple options"  in the [Collective Intelligence: Foundations + Radical Ideas Symposium
 ](https://www.santafe.edu/info/collective-intelligence-2023/about) at the Santa Fe Institute in Santa Fe, New Mexico.
 
 **06/02/2023:** I am presenting a talk on our invited session paper ["Sustained oscillations in multi-topic belief dynamics over signed networks"](https://arxiv.org/abs/2210.00353) at the [2023 American Control Conference](https://acc2023.a2c2.org/) in San Diego, California.
