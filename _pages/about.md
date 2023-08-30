@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-
 Hello! I'm a researcher fascinated by the mathematics of **collective behavior** and **distributed and biologically inspired computation**, including human and animal social decision-making, pattern formation in networked and spatiotemporal systems, self-organization in swarms, and reservoir computing. My focus is on **nonlinearity** and how it shapes emergent collective and computational properties shared by systems across different contexts. I use a combination of tools from nonlinear dynamics, control theory, network science, data-driven equation discovery, and machine learning to *study* real-world and artificially intelligent systems and to *design* decentralized control strategies for autonomous teams. 
 
 In October 2022 I started my current postdoctoral position with the [AI Institute in Dynamic Systems](http://dynamicsai.org/) at the University of Washington, working with Professors [Steve Brunton](https://www.eigensteve.com/) and [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz). If you would like to explore potential collaboration at some intersection of collective behavior, swarm intelligence, control, distributed learning, equation discovery, and nonlinear systems, please reach out to me at *anabiz [at] uw [dot] edu*. 
@@ -20,6 +19,8 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 
 News 
 ======
+
+**08/28/2023:** I am presenting a virtual talk on "Nonlinear dynamics of collective belief formation" in the MathBio Seminar at the University of Iowa, hosted by Professor Zahra Aminzare.
 
 **08/07/2023:** A preprint on "Multi-topic belief formation through bifurcations over signed social networks" is now [available](https://arxiv.org/abs/2308.02755)! This work was done in collaboration with [Alessio Franci](https://sites.google.com/site/francialessioac/) and [Naomi Ehrich Leonard](https://naomi.princeton.edu/).
 
