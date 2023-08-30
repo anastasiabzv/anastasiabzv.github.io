@@ -20,7 +20,7 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 News 
 ======
 
-**08/28/2023:** I am presenting a virtual talk on "Nonlinear dynamics of collective belief formation" in the MathBio Seminar at the University of Iowa, hosted by Professor Zahra Aminzare.
+**08/28/2023:** I am presenting a virtual talk on "Nonlinear dynamics of collective belief formation" in the MathBio Seminar at the University of Iowa, hosted by Professor [Zahra Aminzare](https://math.uiowa.edu/people/zahra-aminzare).
 
 **08/07/2023:** A preprint on "Multi-topic belief formation through bifurcations over signed social networks" is now [available](https://arxiv.org/abs/2308.02755)! This work was done in collaboration with [Alessio Franci](https://sites.google.com/site/francialessioac/) and [Naomi Ehrich Leonard](https://naomi.princeton.edu/).
 
