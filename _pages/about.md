@@ -20,6 +20,11 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 News 
 ======
 
+**09/25/2023:** I will present an invited talk on "Nonlinear dynamics of collective belief formation" at Uppsala University in Uppsala, Sweden.
+
+**09/04/2023:** I am in residence at Linköping university in Sweden for the [Network Dynamics and Control
+ ELIIT Focus Period](https://elliit.se/news-and-events/focus-period-linkoping-2023/), from September 4 to October 6. I will present a seminar talk titled  "Nonlinear dynamics of collective belief formation" on September 8 and a second seminar talk titled "Model reduction of nonlinear feedback systems with applications to networked systems and reservoir computing" on September 29. 
+
 **08/28/2023:** I am presenting a virtual talk on "Nonlinear dynamics of collective belief formation" in the MathBio Seminar at the University of Iowa, hosted by Professor [Zahra Aminzare](https://math.uiowa.edu/people/zahra-aminzare).
 
 **08/07/2023:** A preprint on "Multi-topic belief formation through bifurcations over signed social networks" is now [available](https://arxiv.org/abs/2308.02755)! This work was done in collaboration with [Alessio Franci](https://sites.google.com/site/francialessioac/) and [Naomi Ehrich Leonard](https://naomi.princeton.edu/).
