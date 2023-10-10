@@ -21,7 +21,7 @@ News
 ======
 
 **10/10/2023:** I was featured in a [spotlight interview](https://liu.se/en/news-item/ambitious-guest-researcher-program-enhances-the-interdisciplinary-dialogue) about my experience participating in the Network Dynamics and Control
- ELIIT Focus Period at Linköping University in Sweden!
+ ELLIIT Focus Period at Linköping University in Sweden!
 
 **10/04/2023:** I am presenting an invited seminar on "Nonlinear dynamics of collective belief formation" at the KTH Royal Institute of Technology in Stockholm, Sweden. 
 
