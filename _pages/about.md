@@ -20,6 +20,9 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 News 
 ======
 
+**10/27/2023:** I am visiting Princeton University for a two-day workshop titled [Creative Convergence:
+At the Crossroads of the Arts, Ecology, Neuroscience, and Control Engineering](https://sites.google.com/view/creative-convergence-workshop/), for which I was a member of the organizing committee.
+
 **10/10/2023:** I was featured in a [spotlight interview](https://liu.se/en/news-item/ambitious-guest-researcher-program-enhances-the-interdisciplinary-dialogue) about my experience participating in the Network Dynamics and Control
  ELLIIT Focus Period at Linköping University in Sweden!
 
