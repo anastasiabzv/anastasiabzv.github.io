@@ -22,7 +22,7 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 News 
 ======
 
-**10/31/2023:** An article I wrote summarizing our recent work on modeling belief formation and decision dynamics in social systems is online in the October edition of the [SIAM DSWeb magazine](https://dsweb.siam.org/The-Magazine/Article/nonlinear-dynamics-of-beliefs-and-decisions-in-social-systems).
+**10/31/2023:** An article I wrote summarizing our recent work on modeling belief formation in social systems is featured in the October edition of the [SIAM DSWeb magazine](https://dsweb.siam.org/The-Magazine/Article/nonlinear-dynamics-of-beliefs-and-decisions-in-social-systems).
 
 **10/27/2023:** I am visiting Princeton University for a two-day workshop titled [Creative Convergence:
 At the Crossroads of the Arts, Ecology, Neuroscience, and Control Engineering](https://sites.google.com/view/creative-convergence-workshop/), for which I was a member of the organizing committee.
