@@ -22,6 +22,8 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 News 
 ======
 
+**11/07/2023:** A preprint on "Active risk aversion in SIS epidemics on networks" is now [available](https://arxiv.org/abs/2311.02204)! This work was done in collaboration with [Marcela Ordorica](https://mae.princeton.edu/people/graduate-students/ordorica), Yunxiu Zhou, [Simon Levin](https://slevin.princeton.edu/), and [Naomi Ehrich Leonard](https://naomi.princeton.edu/).
+
 **10/31/2023:** An article I wrote summarizing our recent work on modeling belief formation in social systems is featured in the October edition of the [SIAM DSWeb magazine](https://dsweb.siam.org/The-Magazine/Article/nonlinear-dynamics-of-beliefs-and-decisions-in-social-systems).
 
 **10/27/2023:** I am visiting Princeton University for a two-day workshop titled [Creative Convergence:
