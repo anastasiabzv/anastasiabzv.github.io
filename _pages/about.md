@@ -21,7 +21,7 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 
 News 
 ======
-**11/16/2023:** I am visiting Montana State University in Bozeman, Montana! During my visit I am giving a talk titled "Model reduction of nonlinear feedback systems by data-informed balancing, with an application to RNNs" in the Applied Math Seminar and a hands-on tutorial on forecasting time series with echo state neural networks in the graduate AI seminar. The code for the tutorial is [available in a Colab notebook environment.](https://colab.research.google.com/drive/1MgvqiT2S52zK5GbK6LLHQ1BEAEgb0QGJ?usp=sharing)
+**11/16/2023:** I am visiting Montana State University in Bozeman, Montana! During my visit I am giving a talk titled "Model reduction of nonlinear feedback systems by data-informed balancing, with an application to RNNs" in the Applied Math Seminar and a hands-on tutorial on forecasting time series with echo state neural networks in the graduate AI seminar. The code for the tutorial is [available in a python language Colab notebook.](https://colab.research.google.com/drive/1MgvqiT2S52zK5GbK6LLHQ1BEAEgb0QGJ?usp=sharing)
 
 **11/07/2023:** A preprint on "Active risk aversion in SIS epidemics on networks" is now [available](https://arxiv.org/abs/2311.02204)! This work was done in collaboration with [Marcela Ordorica](https://mae.princeton.edu/people/graduate-students/ordorica), Yunxiu Zhou, [Simon Levin](https://slevin.princeton.edu/), and [Naomi Ehrich Leonard](https://naomi.princeton.edu/).
 
