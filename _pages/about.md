@@ -21,14 +21,16 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 
 News 
 ======
+**11/28/2023:** An advance version of our review paper on "Fast and flexible multiagent decision-making" is available online in [Annual Review of Control, Robotics, and Autonomous Systems](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-090523-100059) with expected final publication date in May 2024. This paper is part of my thesis work with my Ph.D. advisor [Naomi Ehrich Leonard](https://naomi.princeton.edu/) and with [Alessio Franci](https://sites.google.com/site/francialessioac/).
+
 **11/16/2023:** I am visiting Montana State University in Bozeman, Montana! During my visit I am giving a talk titled "Model reduction of nonlinear feedback systems by data-informed balancing, with an application to RNNs" in the Applied Math Seminar and a hands-on tutorial on forecasting time series with echo state neural networks in the graduate AI seminar. The code for the tutorial is [available in a python language Colab notebook.](https://colab.research.google.com/drive/1MgvqiT2S52zK5GbK6LLHQ1BEAEgb0QGJ?usp=sharing)
 
 **11/07/2023:** A preprint on "Active risk aversion in SIS epidemics on networks" is now [available](https://arxiv.org/abs/2311.02204)! This work was done in collaboration with [Marcela Ordorica](https://mae.princeton.edu/people/graduate-students/ordorica), Yunxiu Zhou, [Simon Levin](https://slevin.princeton.edu/), and [Naomi Ehrich Leonard](https://naomi.princeton.edu/).
 
 **10/31/2023:** An article I wrote summarizing our recent work on modeling belief formation in social systems is featured in the October edition of the [SIAM DSWeb magazine](https://dsweb.siam.org/The-Magazine/Article/nonlinear-dynamics-of-beliefs-and-decisions-in-social-systems).
 
-**10/27/2023:** I am visiting Princeton University for a two-day workshop titled [Creative Convergence:
-At the Crossroads of the Arts, Ecology, Neuroscience, and Control Engineering](https://sites.google.com/view/creative-convergence-workshop/), for which I was a member of the organizing committee.
+**10/27/2023:** I am visiting Princeton University for a two-day workshop I co-organized, titled [Creative Convergence:
+At the Crossroads of the Arts, Ecology, Neuroscience, and Control Engineering](https://sites.google.com/view/creative-convergence-workshop/).
 
 **10/10/2023:** I was featured in a [spotlight interview](https://liu.se/en/news-item/ambitious-guest-researcher-program-enhances-the-interdisciplinary-dialogue) about my experience participating in the Network Dynamics and Control
  ELLIIT Focus Period at Linköping University in Sweden!
