@@ -21,6 +21,9 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 
 News 
 ======
+
+**12/10/2023:** I am visiting Singapore on December 10-15! First, I am giving an invited talk titled "Design of fast and flexible decisions in multi-agent systems, leveraging bifurcations" in the Workshop on Geometrically Guided Analysis and Design in Optimization and Control at the Nanyang Technological University. Next, I am attending the [IEEE Conference on Decision and Control](https://cdc2023.ieeecss.org/) where I will present a poster in the Faculty Candidate Poster Session on 12/13.
+
 **11/28/2023:** An advance version of our review paper on "Fast and flexible multiagent decision-making" is available online in [Annual Review of Control, Robotics, and Autonomous Systems](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-090523-100059) with expected final publication date in May 2024. This paper, led by my Ph.D. advisor [Naomi Ehrich Leonard](https://naomi.princeton.edu/), describes ideas central to my thesis research in Princeton done in close collaboration with Naomi and with [Alessio Franci](https://sites.google.com/site/francialessioac/).
 
 **11/16/2023:** I am visiting Montana State University in Bozeman, Montana! During my visit I am giving a talk titled "Model reduction of nonlinear feedback systems by data-informed balancing, with an application to RNNs" in the Applied Math Seminar and a hands-on tutorial on forecasting time series with echo state neural networks in the graduate AI seminar. The code for the tutorial is [available in a python language Colab notebook.](https://colab.research.google.com/drive/1MgvqiT2S52zK5GbK6LLHQ1BEAEgb0QGJ?usp=sharing)
