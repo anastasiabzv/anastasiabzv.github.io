@@ -34,6 +34,7 @@ Political Polarization Article Spotlights
 
 Princeton School of Engineering and Applied Science Award for Excellence
 ====
+
 **12/09/2021:** I received an award given to a small number of graduate students fo having "excelled at the highest level as scholars and researchers", which was highlighted by the [engineering school](https://engineering.princeton.edu/news/2021/12/08/award-excellence-honors-graduate-student-achievement-2) and by the [Mechanical and Aerospace Engineering Department](https://mae.princeton.edu/about-mae/news/anastasia-bizyaeva-and-jinyoung-lee-receive-seas-awards-excellence)
 
 Princeton Engineering Spotlight
