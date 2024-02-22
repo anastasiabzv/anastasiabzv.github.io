@@ -1,11 +1,9 @@
 # main links links
 main:
-
    - title: "Curriculum Vitae"
      url: /cv/
-     
    - title: "Media"
-   url: /media/
+     url: /media/
    
   #- title: "Publications"
   #  url: /publications/ 
