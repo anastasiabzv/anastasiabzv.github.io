@@ -22,6 +22,10 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 News 
 ======
 
+**02/21/2024:** I am attending the AI Institute in Dynamic Systems workshop on the [Common Task Framework for Science and Engineering](https://dynamicsai.org/workshops/CTFworkshop/) at the University of Hawai'i at Mānoa.
+
+**02/09/2024:** I spent a week visiting the Santa Fe Institute in Santa Fe, New Mexico. A recording of my seminar on "Nonlinear Dynamics of Beliefs over Social Networks" is available on [YouTube](https://www.youtube.com/watch?v=ujORe830f7g)!
+
 **12/10/2023:** I am visiting Singapore on December 10-15! First, I am giving an invited talk titled "Design of fast and flexible decisions in multi-agent systems, leveraging bifurcations" in the Workshop on Geometrically Guided Analysis and Design in Optimization and Control at the Nanyang Technological University. Next, I am attending the [IEEE Conference on Decision and Control](https://cdc2023.ieeecss.org/) where I will present a poster in the Faculty Candidate Poster Session on 12/13.
 
 **11/28/2023:** An advance version of our review paper on "Fast and flexible multiagent decision-making" is available online in [Annual Review of Control, Robotics, and Autonomous Systems](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-090523-100059) with expected final publication date in May 2024. This paper, led by my Ph.D. advisor [Naomi Ehrich Leonard](https://naomi.princeton.edu/), describes ideas central to my thesis research in Princeton done in close collaboration with Naomi and with [Alessio Franci](https://sites.google.com/site/francialessioac/).
