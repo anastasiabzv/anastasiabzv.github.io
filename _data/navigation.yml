@@ -3,6 +3,10 @@ main:
 
    - title: "Curriculum Vitae"
      url: /cv/
+     
+   - title: "Media"
+   url: /media/
+   
   #- title: "Publications"
   #  url: /publications/ 
     
