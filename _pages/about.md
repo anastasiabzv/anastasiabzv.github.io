@@ -22,6 +22,9 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 News 
 ======
 
+**03/05/2024:** I am giving an invited talk at the APS March Meeting in Minneapolis, Minnesota, in session [Session G31: Physics Approaches for Modeling Human Social Systems
+](https://meetings.aps.org/Meeting/MAR24/Session/G31.1)
+
 **02/21/2024:** I am attending the AI Institute in Dynamic Systems workshop on the [Common Task Framework for Science and Engineering](https://dynamicsai.org/workshops/CTFworkshop/) at the University of Hawai'i at Mānoa.
 
 **02/09/2024:** I spent a week visiting the Santa Fe Institute in Santa Fe, New Mexico. A recording of my seminar on "Nonlinear Dynamics of Beliefs over Social Networks" is available on [YouTube](https://www.youtube.com/watch?v=ujORe830f7g)!
