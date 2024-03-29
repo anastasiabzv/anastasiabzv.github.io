@@ -22,6 +22,8 @@ Before joining the University of Washington, I received my Ph.D. in Mechanical a
 News 
 ======
 
+**03/29/204:** I am giving an invited virtual talk on "Nonlinear dynamics of beliefs over social networks" in the Virginia Commonwealth University Biomath seminar. 
+
 **03/05/2024:** I am giving an invited talk at the APS March Meeting in Minneapolis, Minnesota, in session [Session G31: Physics Approaches for Modeling Human Social Systems
 ](https://meetings.aps.org/Meeting/MAR24/Session/G31.1)
 
