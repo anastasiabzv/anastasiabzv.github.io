@@ -22,6 +22,8 @@ News
 
 **03/29/204:** I am giving an invited virtual talk on "Nonlinear dynamics of beliefs over social networks" in the Virginia Commonwealth University Biomath seminar. 
 
+**03/20/2024:** Our paper [Examining cognitive flexibility and stability through the lens of dynamical systems](https://www.sciencedirect.com/science/article/pii/S2352154624000263) in collaboration with [Sebastian Musslick](https://musslick.github.io/) is available online, to appear in the June 2024 issue of Current Opinion in Behavioral Sciences.
+
 **03/05/2024:** I am giving an invited talk at the APS March Meeting in Minneapolis, Minnesota, in session [Session G31: Physics Approaches for Modeling Human Social Systems
 ](https://meetings.aps.org/Meeting/MAR24/Session/G31.1)
 
