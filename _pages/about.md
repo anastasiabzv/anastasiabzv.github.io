@@ -14,9 +14,11 @@ Hello! I'm a researcher fascinated by the mathematics of **collective behavior**
 **I am joining the [Sibley School of Mechanical and Aerospace Engineering](https://www.mae.cornell.edu/mae) at Cornell University as an Assistant Professor, starting July 1, 2024!** Currently I am a postdoctoral scholar with the [AI Institute in Dynamic Systems](http://dynamicsai.org/) at the University of Washington, working with Professors [Steve Brunton](https://www.eigensteve.com/) and [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz). Before joining the University of Washington, I received my Ph.D. in Mechanical and Aerospace Engineering from Princeton University in September 2022. At Princeton my research on nonlinear dynamics of collective decision-making and belief formation was supervised by Professor [Naomi Ehrich Leonard](https://naomi.princeton.edu/). My dissertation research was distinguished with the [Princeton School of Applied Science and Engineering Award for Excellence](https://engineering.princeton.edu/news/2021/12/08/award-excellence-honors-graduate-student-achievement-2). You can read my Ph.D thesis [here](https://naomi.princeton.edu/wp-content/uploads/sites/744/2022/09/AnastasiaThesis.pdf). Prior to my Ph.D. I earned a B.A. in Physics with a minor in Mechanical Engineering from the University of California, Berkeley in 2016.
 
 
-
 News 
 ======
+**06/10/2024:** I am attending the [2024 SIAM Conference on the Life Sciences](https://www.siam.org/conferences/cm/conference/ls24) in Portland, Oregon on June 10-13. On June 12 I am presenting an invited talk titled "Stability-flexibility Dilemma in Individual and Social Cognition" in [MS41 Decision-making in Dynamic Environments](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79282).
+
+**05/30/2024:** A preprint of our joint work with Pranav Gupta and [Ravi Banovar](https://sites.google.com/view/ravibanavar/) of IIT Bombay on [Estimates on the domain of validity for Lyapunov-Schmidt reduction](https://arxiv.org/abs/2406.00066) is available.
 
 **03/29/2024:** I am giving an invited virtual talk on "Nonlinear dynamics of beliefs over social networks" in the Virginia Commonwealth University Biomath seminar. 
 
