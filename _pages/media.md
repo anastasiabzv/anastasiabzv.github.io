@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 
+Cornell SciAI Center
+====
+
+**07/29/2024:** I am one of the new affiliate faculty members with the [Scientific Artificial Intelligence Center](https://sciaicenter.engineering.cornell.edu/news/sciai-center-welcomes-new-affiliate-faculty-members/) at Cornell!
+
+
+
 Santa Fe Institute Seminar
 ====
 

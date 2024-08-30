@@ -19,6 +19,9 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
+
+**07/29/2024:** I am a new affiliate faculty member with the [Scientific Artificial Intelligence Center](https://sciaicenter.engineering.cornell.edu/news/sciai-center-welcomes-new-affiliate-faculty-members/) at Cornell!
+
 **07/22/2024:** Our paper [On the Benefits of Heterogeneity in Cognitive Stability and Flexibility for Collaborative Task Switching
 ](https://escholarship.org/uc/item/6b47b61g) is available in the 46th volume of the Proceedings of the Annual Meeting of the Cognitive Science Society. This work was led by Alessandra Brondetta, in joint collaboration with [Maxime Lucas](https://maximelucas.github.io/), [Giovanni Petri](https://www.networkscienceinstitute.org/people/giovanni-petri), and [Sebastian Musslick](https://smusslick.com/). Check out Alessandra's poster at CogSci if you are in attendance!
 
