@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello! I'm an incoming assistant professor in the [Sibley School of Mechanical and Aerospace Engineering](https://www.mae.cornell.edu/mae) at Cornell University. I am fascinated by the mathematics of **collective behavior** and **distributed and biologically inspired computation**, including human and animal social decision-making, pattern formation in networked and spatiotemporal systems, self-organization in swarms, and reservoir computing. My focus is on **nonlinearity** and how it shapes emergent collective and computational properties shared by systems across different contexts. I use a combination of tools from nonlinear dynamics, control theory, network science, data-driven equation discovery, and machine learning to *study* real-world and artificially intelligent systems and to *design* decentralized control strategies for autonomous teams. You can reach me at anastasiab [at] cornell [dot] edu 
+Hello! I'm an assistant professor in the [Sibley School of Mechanical and Aerospace Engineering](https://www.mae.cornell.edu/mae) at Cornell University. I am fascinated by the mathematics of **collective behavior** and **distributed and biologically inspired computation**, including human and animal social decision-making, pattern formation in networked and spatiotemporal systems, self-organization in swarms, and reservoir computing. My focus is on **nonlinearity** and how it shapes emergent collective and computational properties shared by systems across different contexts. I use a combination of tools from nonlinear dynamics, control theory, network science, data-driven equation discovery, and machine learning to *study* real-world and artificially intelligent systems and to *design* decentralized control strategies for autonomous teams. You can reach me at anastasiab [at] cornell [dot] edu 
 
 **If you are attending the 2024 Conference on Decision and Control in Milan, Italy, check out our full-day pre-conference workshop on the [synthesis of bifurcation and systems theories for the design, analysis, and control of intelligent and collective behaviors](https://sites.google.com/view/cdc2024-bifurcations-workshop), co-organized with [Alessio Franci](https://sites.google.com/site/francialessioac/). The workshop is on December 15th and open for registration to all CDC attendees!**
 
@@ -19,6 +19,8 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
+
+**09/16/2024:** A preprint of our paper [Learning Communities from Equilibria of Nonlinear Opinion Dynamics](https://arxiv.org/abs/2409.08004), led by [Yu Xing](https://scholar.google.com/citations?user=MZRqhuAAAAAJ&hl=zh-CN) and in collaboration with [Karl H. Johansson](https://people.kth.se/~kallej/index.html) is available on arXiv, to apper in the Proceedings of the 2024 Conference on Decision and Control. 
 
 **07/29/2024:** I am a new affiliate faculty member with the [Scientific Artificial Intelligence Center](https://sciaicenter.engineering.cornell.edu/news/sciai-center-welcomes-new-affiliate-faculty-members/) at Cornell!
 
