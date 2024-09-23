@@ -12,7 +12,7 @@ redirect_from:
 Women in Network Science (WiNS) Seminar
 ====
 
-**09/23/2024:** I gave a virtual seminar talk on "Nonlinear DYnamics of Beliefs over Social Networks" at the Women in Network Science Society virtual seminar, a recording is available on [YouTube](https://www.youtube.com/watch?v=sPDpAA7M_NM)
+**09/23/2024:** I gave a virtual seminar talk on "Nonlinear DYnamics of Beliefs over Social Networks" at the [Women in Network Science society](https://sites.google.com/view/womeninnetworkscience/) virtual seminar, a recording is available on [YouTube](https://www.youtube.com/watch?v=sPDpAA7M_NM)
 
 
 Cornell SciAI Center
