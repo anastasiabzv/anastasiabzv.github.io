@@ -19,6 +19,8 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
+**09/23/2024:** I gave talk in the Women in Network Science virtual seminar titled "Nonlinear dynamics of beliefs over social networks" - check out a recording [here](https://www.youtube.com/watch?v=sPDpAA7M_NM)!
+
 
 **09/16/2024:** A preprint of our paper [Learning Communities from Equilibria of Nonlinear Opinion Dynamics](https://arxiv.org/abs/2409.08004), led by [Yu Xing](https://scholar.google.com/citations?user=MZRqhuAAAAAJ&hl=zh-CN) and in collaboration with [Karl H. Johansson](https://people.kth.se/~kallej/index.html) is available on arXiv, to apper in the Proceedings of the 2024 Conference on Decision and Control. 
 
