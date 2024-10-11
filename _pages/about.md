@@ -19,6 +19,8 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
+**10/11/2024:** I gave a virtual talk in the Semiautonomous Seminar in the research group of Prof. Shankar Sastry at UC Berkeley. My talk was titled "Design of flexible decisions in multi-agent systems, leveraging bifurcations".
+
 **09/23/2024:** I gave talk in the [Women in Network Science society](https://sites.google.com/view/womeninnetworkscience/) virtual seminar titled "Nonlinear dynamics of beliefs over social networks" - check out a recording [here](https://www.youtube.com/watch?v=sPDpAA7M_NM)!
 
 
