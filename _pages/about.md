@@ -20,7 +20,7 @@ News
 ======
 **10/21/2024:** I am attending and giving an invited technical talk at the three-day [Workshop on Spreading on Social Networks – Theory and Applications](http://dimacs.rutgers.edu/events/details?eID=2953) hosted in the Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) at Rutgers University.
 
-**10/11/2024:** I gave a virtual talk in the Semiautonomous Seminar in the research group of Prof. Shankar Sastry at UC Berkeley. My talk was titled "Design of flexible decisions in multi-agent systems, leveraging bifurcations".
+**10/11/2024:** I gave a virtual talk in the Semiautonomous Seminar at UC Berkeley, hosted by the research group of Prof. Shankar Sastry. My talk was titled "Design of flexible decisions in multi-agent systems, leveraging bifurcations".
 
 **09/23/2024:** I gave talk in the [Women in Network Science society](https://sites.google.com/view/womeninnetworkscience/) virtual seminar titled "Nonlinear dynamics of beliefs over social networks" - check out a recording [here](https://www.youtube.com/watch?v=sPDpAA7M_NM)!
 
