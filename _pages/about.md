@@ -18,6 +18,10 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 
 News 
 ======
+**11/11/2024:** I will be giving a talk titled "Integral-form sparse model selection for stochastic differential equations" in the [SCAN seminar](https://cornell-scan.github.io/) at Cornell.
+
+**10/28/2024:** I am attending the [Distributed Autonomous Robotic Systems 2024](https://dars2024.engineering.cornell.edu/) conference at Cornell Tech! 
+
 **10/21/2024:** I am attending and giving an invited technical talk at the three-day [Workshop on Spreading on Social Networks – Theory and Applications](http://dimacs.rutgers.edu/events/details?eID=2953) hosted in the Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) at Rutgers University.
 
 **10/11/2024:** I gave a virtual talk in the Semiautonomous Seminar at UC Berkeley, hosted by the research group of Prof. Shankar Sastry. My talk was titled "Design of flexible decisions in multi-agent systems, leveraging bifurcations".
