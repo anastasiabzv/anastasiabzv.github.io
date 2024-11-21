@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 
+Science Magazine Article Quote:
+====
+
+**11/20/2024:** I was quoted in an article in Science Magazine about the [sudden movement of Academic Twitter to the Bluesky social network](https://www.science.org/content/article/old-twitter-scientific-community-finds-new-home-bluesky)
+
 
 Women in Network Science (WiNS) Seminar
 ====

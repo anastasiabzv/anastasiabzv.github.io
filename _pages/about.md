@@ -18,6 +18,9 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 
 News 
 ======
+
+**11/20/2024:** I was quoted in an article in Science Magazine about the [sudden movement of Academic Twitter to the Bluesky social network](https://www.science.org/content/article/old-twitter-scientific-community-finds-new-home-bluesky).
+
 **11/11/2024:** I will be giving a talk titled "Integral-form sparse model selection for stochastic differential equations" in the [SCAN seminar](https://cornell-scan.github.io/) at Cornell.
 
 **10/28/2024:** I am attending the [Distributed Autonomous Robotic Systems 2024](https://dars2024.engineering.cornell.edu/) conference at Cornell Tech! 
