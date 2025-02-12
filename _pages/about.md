@@ -19,6 +19,8 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
+**02/05/2025:** Our manuscript ["Multi-topic belief formation through bifurcations over signed social networks"](https://ieeexplore.ieee.org/abstract/document/10874167) in collaboration with [Alessio Franci](https://sites.google.com/site/francialessioac/) and [Naomi Ehrich Leonard](https://naomi.princeton.edu) is available as an Early Access published article in the IEEE Transactions on Automatic Control.
+
 **12/15/2024:** I am attending [Conference on Decision and Control](https://cdc2024.ieeecss.org/) in Milan, Italy, where I am an organizer for the workshop on the [synthesis of bifurcation and systems theories for the design, analysis, and control of intelligent and collective behaviors](https://sites.google.com/view/cdc2024-bifurcations-workshop) and an author on three presented papers.
 
 **11/20/2024:** I was quoted in an article in Science Magazine about the [sudden movement of Academic Twitter to the Bluesky social network](https://www.science.org/content/article/old-twitter-scientific-community-finds-new-home-bluesky).
