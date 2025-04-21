@@ -21,6 +21,8 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
+**04/16/2025:** I am visiting the GRASP Lab at the University of Pennsylvania to deliver a talk in the [GRASP Student Faculty Industry (SFI) Seminar](https://www.grasp.upenn.edu/events/spring-2025-grasp-sfi-anastasia-bizyaeva/)!
+
 **03/14/2025:** I am giving a talk titled ``Nonlinear dynamics of social decision-making and belief formation" in the [Ezra Systems Seminar](https://www.engineering.cornell.edu/events/ezra-systems-seminar-anastasia-bizyaeva-cornell-mae) at Cornell!
 
 **02/05/2025:** Our manuscript ["Multi-topic belief formation through bifurcations over signed social networks"](https://ieeexplore.ieee.org/abstract/document/10874167) in collaboration with [Alessio Franci](https://sites.google.com/site/francialessioac/) and [Naomi Ehrich Leonard](https://naomi.princeton.edu) is available as an Early Access published article in the IEEE Transactions on Automatic Control.
