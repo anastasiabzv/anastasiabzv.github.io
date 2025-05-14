@@ -21,6 +21,10 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
+**05/11/2025:** I am in Denver, Colorado this week for the [SIAM Conference on Applied Dynamical Systems](https://www.siam.org/conferences-events/siam-conferences/ds25/) where I am an organizer and speaker in a three-part minisymposium on "Data-driven Modeling for Complex Systems: Structure, Robustness, and Cross-disciplinary Applications".
+
+**05/05/2025:** I am visiting the [Santa Fe Institute](https://www.santafe.edu/) for a week to participate in the working group on Foundations of Adaptive Networks. 
+
 **04/16/2025:** I am visiting the GRASP Lab at the University of Pennsylvania to deliver a talk in the [GRASP Student Faculty Industry (SFI) Seminar](https://www.grasp.upenn.edu/events/spring-2025-grasp-sfi-anastasia-bizyaeva/)!
 
 **03/14/2025:** I am giving a talk titled ``Nonlinear dynamics of social decision-making and belief formation" in the [Ezra Systems Seminar](https://www.engineering.cornell.edu/events/ezra-systems-seminar-anastasia-bizyaeva-cornell-mae) at Cornell!
