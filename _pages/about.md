@@ -21,6 +21,8 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
+**05/19/2025:** I am in Liège, Belgium to teach a week-long course on "Fast and flexible multi-agent decision-making" with [Alessio Franci](https://sites.google.com/site/francialessioac/)! This course is part of the [International Graduate School on Control](http://www.eeci-igsc.eu/) program offered by the European Embedded Control Institute, and hosted at the University of Liège.
+
 **05/11/2025:** I am in Denver, Colorado this week for the [SIAM Conference on Applied Dynamical Systems](https://www.siam.org/conferences-events/siam-conferences/ds25/) where I am an organizer and speaker in a three-part minisymposium on "Data-driven Modeling for Complex Systems: Structure, Robustness, and Cross-disciplinary Applications".
 
 **05/05/2025:** I am visiting the [Santa Fe Institute](https://www.santafe.edu/) for a week to participate in the working group on Foundations of Adaptive Networks. 
