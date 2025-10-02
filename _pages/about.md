@@ -19,6 +19,8 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
+**09/17/2025:** I am attending the [Allerton Conference](https://allerton.csl.illinois.edu/) at the University of Illinois at Urbana-Champaign, where I am presented an invited talk.
+
 **07/08/2025:** I am in Denver, Colorado this week for the [American Control Conference](https://acc2025.a2c2.org/).
 
 **05/19/2025:** I am in Liège, Belgium to teach a week-long course on "Fast and flexible multi-agent decision-making" with [Alessio Franci](https://sites.google.com/site/francialessioac/)! This course is part of the [International Graduate School on Control](http://www.eeci-igsc.eu/) program offered by the European Embedded Control Institute, and hosted at the University of Liège.
