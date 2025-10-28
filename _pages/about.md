@@ -19,7 +19,9 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
-**09/17/2025:** I am attending the [Allerton Conference](https://allerton.csl.illinois.edu/) at the University of Illinois at Urbana-Champaign, where I am presented an invited talk.
+**10/30/2025:** I am visiting the [Binghamton Center of Complex Systems](https://coco.binghamton.edu/) where I am giving an invited seminar.
+
+**09/17/2025:** I am attending and presenting an invited talk at the [Allerton Conference](https://allerton.csl.illinois.edu/) hosted by the University of Illinois at Urbana-Champaign.
 
 **07/08/2025:** I am in Denver, Colorado this week for the [American Control Conference](https://acc2025.a2c2.org/).
 
