@@ -19,7 +19,9 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
-**10/30/2025:** I am visiting the [Binghamton Center of Complex Systems](https://coco.binghamton.edu/) where I am giving an invited seminar.
+**11/4/2025:** I gave a virtual seminar in the [MIT Autonomy Talks](https://zardini.mit.edu/autonomytalks/) series.
+
+**10/30/2025:** I visited the [Binghamton Center of Complex Systems](https://coco.binghamton.edu/) to give a seminar. Check out the recording of my talk [here](https://vimeo.com/1132310592)!
 
 **09/17/2025:** I am attending and presenting an invited talk at the [Allerton Conference](https://allerton.csl.illinois.edu/) hosted by the University of Illinois at Urbana-Champaign.
 
