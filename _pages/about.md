@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello! I'm an assistant professor in the [Sibley School of Mechanical and Aerospace Engineering](https://www.mae.cornell.edu/mae) at Cornell University. I am fascinated by the mathematics of **collective behavior** and **distributed and biologically inspired computation**, including human and animal social decision-making, pattern formation in networked and spatiotemporal systems, self-organization in swarms, and reservoir computing. My focus is on **nonlinearity** and how it shapes emergent collective and computational properties shared by systems across different contexts. I use a combination of tools from nonlinear dynamics, control theory, network science, data-driven equation discovery, and machine learning to *study* real-world and artificially intelligent systems and to *design* decentralized control strategies for autonomous teams. You can reach me at anastasiab [at] cornell [dot] edu. At Cornell I am a member of the Mechanical Engineering, Aerospace Engineering, Theoretical and Applied Mechanics, and Applied Mathematics graduate fields. Learn more about the Control and Computation for Complex Systems Group at Cornell on our [group website](https://sites.google.com/cornell.edu/c3groupcornell/home)!
+Hello! I'm an assistant professor in the [Sibley School of Mechanical and Aerospace Engineering](https://www.mae.cornell.edu/mae) at Cornell University. I am fascinated by the mathematics of **collective behavior** and **distributed and biologically inspired computation**, including human and animal social decision-making, pattern formation in networked and spatiotemporal systems, self-organization in swarms, and reservoir computing. My focus is on **nonlinearity** and how it shapes emergent collective and computational properties shared by systems across different contexts. I use a combination of tools from nonlinear dynamics, control theory, network science, data-driven equation discovery, and machine learning to *study* real-world and artificially intelligent systems and to *design* decentralized control strategies for autonomous teams. You can reach me at anastasiab [at] cornell [dot] edu. At Cornell I am a member of the Mechanical Engineering, Aerospace Engineering, Theoretical and Applied Mechanics, Applied Mathematics, and Systems Engineering graduate fields. Learn more about the Control and Computation for Complex Systems Group at Cornell on our [group website](https://sites.google.com/cornell.edu/c3groupcornell/home)!
 
 I am  a founding member and the general co-chair of [NextCom](https://sites.google.com/view/css-nextcom),  a committee that supports students, early career researchers, and young professionals in the IEEE Control Systems Society. 
 
@@ -19,7 +19,9 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
-**11/4/2025:** I gave a virtual seminar in the [MIT Autonomy Talks](https://zardini.mit.edu/autonomytalks/) series.
+**11/24/25:** I gave an invited colloquium talk at in the [Physics Department at Cornell University](https://physics.cornell.edu/upcoming-colloquia).
+
+**11/4/2025:** I gave a virtual seminar in the [MIT Autonomy Talks](https://zardini.mit.edu/autonomytalks/) series. A recording of my talk is available at the [Autonomy Talks YouTube channel](https://www.youtube.com/watch?v=jXGvTYKjQ5w).
 
 **10/30/2025:** I visited the [Binghamton Center of Complex Systems](https://coco.binghamton.edu/) to give a seminar. Check out the recording of my talk [here](https://vimeo.com/1132310592)!
 
