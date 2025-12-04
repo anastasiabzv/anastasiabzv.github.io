@@ -19,7 +19,9 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
-**11/24/25:** I gave an invited colloquium talk at in the [Physics Department at Cornell University](https://physics.cornell.edu/upcoming-colloquia).
+**12/8/2025:** I am attending the IEEE Conference on Decision and Control in Brazil! Reach out if you would like to connect.
+
+**11/24/2025:** I gave an invited colloquium talk in the [Physics Department at Cornell University](https://physics.cornell.edu/upcoming-colloquia).
 
 **11/4/2025:** I gave a virtual seminar in the [MIT Autonomy Talks](https://zardini.mit.edu/autonomytalks/) series. A recording of my talk is available at the [Autonomy Talks YouTube channel](https://www.youtube.com/watch?v=jXGvTYKjQ5w).
 
