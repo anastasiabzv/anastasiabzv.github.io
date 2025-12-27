@@ -19,7 +19,7 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
-**12/11/2025:** I was a recipient of the 2025 IEEE Control Systems Society  [George S. Axelby Outstanding Paper Award!](https://www.engineering.cornell.edu/mae/2025/12/12/bizyaeva-receives-ieee-control-systems-societys-axelby-award/) The award was given for the paper [``Nonlinear opinion dynamics with tunable sensitivity''](https://ieeexplore.ieee.org/abstract/document/9736598/) co-authored with Alessio Franci and Naomi Ehrich Leonard.
+**12/11/2025:** I was a recipient of the 2025 IEEE Control Systems Society  [George S. Axelby Outstanding Paper Award!](https://www.engineering.cornell.edu/mae/2025/12/12/bizyaeva-receives-ieee-control-systems-societys-axelby-award/) The award was given for the paper ["Nonlinear opinion dynamics with tunable sensitivity"](https://ieeexplore.ieee.org/abstract/document/9736598/) co-authored with Alessio Franci and Naomi Ehrich Leonard.
 
 **12/8/2025:** I am attending the IEEE Conference on Decision and Control in Brazil! Reach out if you would like to connect.
 
