@@ -19,6 +19,10 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 News 
 ======
 
+**1/12/2025:** I visited Universidad Nacional Autónoma de México (UNAM) where I co-organized a workshop on Embodied Intelligence, Flexible Cognition, and Control Theory, and presented an invited seminar! A recording of the talk is available at the [Instituto de Fisiología Celular YouTube channel](https://www.youtube.com/live/pP_K6KG5zvs).
+
+**1/5/2025:** I am visiting the Santa Fe Institute as an invited participant in a working group on "Navigating the space of collective transitions in biology and society".
+
 **12/11/2025:** I was a recipient of the 2025 IEEE Control Systems Society  [George S. Axelby Outstanding Paper Award!](https://www.engineering.cornell.edu/mae/2025/12/12/bizyaeva-receives-ieee-control-systems-societys-axelby-award/) The award was given for the paper ["Nonlinear opinion dynamics with tunable sensitivity"](https://ieeexplore.ieee.org/abstract/document/9736598/) co-authored with Alessio Franci and Naomi Ehrich Leonard.
 
 **12/8/2025:** I am attending the IEEE Conference on Decision and Control in Brazil! Reach out if you would like to connect.
