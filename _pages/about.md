@@ -18,7 +18,7 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 
 News 
 ======
-**4/24/2026:** I am visiting University of Syracuse and giving an invited seminar in the Department of Mechanical & Aerospace Engineering.s
+**4/24/2026:** I am visiting University of Syracuse and giving an invited seminar in the Department of Mechanical & Aerospace Engineering.
 
 **1/12/2026:** I visited Universidad Nacional Autónoma de México (UNAM) where I co-organized a workshop on Embodied Intelligence, Flexible Cognition, and Control Theory, and presented an invited seminar! A recording of the talk is available at the [Instituto de Fisiología Celular YouTube channel](https://www.youtube.com/live/pP_K6KG5zvs).
 
