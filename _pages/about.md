@@ -18,6 +18,15 @@ Through June of 2024 I was postdoctoral scholar with the [AI Institute in Dynami
 
 News 
 ======
+
+**5/28/2026:** I am giving an invited talk in the Mechanical Engineering & Materials Science Department at Duke University, as part of a two-day "Emerging Ideas in Mechanical Engineering" event.
+
+**5/26/2026:** I am attending the [American Control Conference](https://acc2026.a2c2.org/) in New Orleands, Louisianna! I will be presenting and participating in a panel discussion in the workshop [Toward Safe and Scalable Multi-Agent Systems](https://acc26-mas.github.io/).
+
+**5/18/2026:** I am participating in the [Control Theory & Neuroscience Workshop](https://www.simonsfoundation.org/event/ccn_control-workshop-2026/) at the Simons Foundation Flatiron Institute in New York City.
+
+**5/4/2026:** I am participating in an Interdisciplinary Research Cluster on [Mathematical and Statistical Modeling of Spread and Mitigation of Epidemics](https://www.imsi.institute/no_index/mathematical-and-statistical-modeling-of-spread-and-mitigation-of-epidemics/) at the NSF Institute for Mathematical and Statistical Innovation in Chicago, Illinois.
+
 **4/24/2026:** I am visiting University of Syracuse and giving an invited seminar in the Department of Mechanical & Aerospace Engineering.
 
 **1/12/2026:** I visited Universidad Nacional Autónoma de México (UNAM) where I co-organized a workshop on Embodied Intelligence, Flexible Cognition, and Control Theory, and presented an invited seminar! A recording of the talk is available at the [Instituto de Fisiología Celular YouTube channel](https://www.youtube.com/live/pP_K6KG5zvs).
